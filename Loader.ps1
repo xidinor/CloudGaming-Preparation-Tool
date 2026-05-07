@@ -1,27 +1,6 @@
 ﻿cls
- Write-Host -foregroundcolor red "
-                               ((//////                                
-                             #######//////                             
-                             ##########(/////.                         
-                             #############(/////,                      
-                             #################/////*                   
-                             #######/############////.                 
-                             #######/// ##########////                 
-                             #######///    /#######///                 
-                             #######///     #######///                 
-                             #######///     #######///                 
-                             #######////    #######///                 
-                             ########////// #######///                 
-                             ###########////#######///                 
-                               ####################///                 
-                                   ################///                 
-                                     *#############///                 
-                                         ##########///                 
-                                            ######(*                   
-                                                           
-                           
-                                       
-                    ~Parsec Self Hosted Cloud Setup Script~
+ Write-Host -foregroundcolor green "
+                    ~Cloud Gaming rig Setup Script~
 
                     This script sets up your cloud computer
                     with a bunch of settings and drivers
